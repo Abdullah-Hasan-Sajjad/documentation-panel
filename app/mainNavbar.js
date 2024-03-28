@@ -10,11 +10,8 @@ export default function MainNavbar() {
     <Navbar fluid rounded className="bg-lime-300 w-full">
       <Navbar.Toggle />
       <Navbar.Collapse>
-        <Navbar.Link href="#" active>
-        </Navbar.Link>
-        <Navbar.Link as={Link} href="#">
-          Voice
-        </Navbar.Link>
+        <Navbar.Link href="/voice">Voice</Navbar.Link>
+        <Navbar.Link href="/message">Message</Navbar.Link> 
         <Navbar.Link href="#">Serverless</Navbar.Link>
         <Navbar.Link href="#">Flex</Navbar.Link>
         <Navbar.Link href="#">Studio</Navbar.Link>

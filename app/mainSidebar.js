@@ -6,7 +6,7 @@ import { HiArrowSmRight, HiChartPie, HiInbox, HiShoppingBag, HiTable, HiUser } f
 import Image from 'next/image'
 import companyLogo from '../public/next.svg'
 
-export default function MainSidebar() {
+export default function MainSidebar({list}) {
   return (
 
     <div class="bg-sidebar-bg h-full flex flex-col fixed top-0 left-0 z-30 gap-2 w-64 invisible md:visible" id="sidePanel">

@@ -17,7 +17,9 @@ export default function RootLayout({ children }) {
       <body className={inter.className}>
         <MainNavbar />
         <MainSidebar />
-        {children}
+        <div className="md:ml-64">
+          {children}
+        </div>
       </body>
     </html>
   );
