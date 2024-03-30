@@ -1,0 +1,182 @@
+{
+    "Root": [
+        {
+            "title": "Root Page Sidebar",
+            "subtitle": [
+                "Root Overview",
+                "Root providers"
+            ]
+        },
+        {
+            "title": "Root Reference",
+            "subtitle": [
+                "Root Overview",
+                "Root providers",
+                "Root Resource"
+            ]
+        },
+        {
+            "title": "Root lists",
+            "subtitle": [
+                "Root Overview",
+                "Root providers",
+                "Root Resource"
+            ]
+        },
+        {
+            "title": "Root Reference",
+            "subtitle": [
+                "Root Overview",
+                "Root providers",
+                "Root Resource"
+            ]
+        },
+        {
+            "title": "Root Reference",
+            "subtitle": [
+                "Root Overview",
+                "Root providers",
+                "Root Resource"
+            ]
+        },
+        {
+            "title": "Root lists",
+            "subtitle": [
+                "Root Overview",
+                "Root providers",
+                "Root Resource"
+            ]
+        },
+        {
+            "title": "Root Reference",
+            "subtitle": [
+                "Root Overview",
+                "Root providers",
+                "Root Resource"
+            ]
+        },
+        {
+            "title": "Root Page Sidebar",
+            "subtitle": [
+                "Root Overview",
+                "Root providers"
+            ]
+        },
+        {
+            "title": "Root Reference",
+            "subtitle": [
+                "Root Overview",
+                "Root providers",
+                "Root Resource"
+            ]
+        },
+        {
+            "title": "Root Page Sidebar",
+            "subtitle": [
+                "Root Overview",
+                "Root providers"
+            ]
+        }
+    ],
+    "Voice": [
+        {
+            "title": "API Introduction"
+        },
+        {
+            "title": "API Reference",
+            "subtitle": [
+                "API Overview",
+                "API providers",
+                "API Resource"
+            ]
+        },
+        {
+            "title": "API lists"
+        },
+        {
+            "title": "API Reference",
+            "subtitle": [
+                "API Overview",
+                "API providers",
+                "API Resource"
+            ]
+        },
+        {
+            "title": "API Reference",
+            "subtitle": [
+                "API Overview",
+                "API providers",
+                "API Resource"
+            ]
+        },
+        {
+            "title": "API lists",
+            "subtitle": [
+                "API Overview",
+                "API providers",
+                "API Resource"
+            ]
+        },
+        {
+            "title": "API Reference",
+            "subtitle": [
+                "API Overview",
+                "API providers",
+                "API Resource"
+            ]
+        }
+    ],
+    "Message": [
+        {
+            "title": "Message Overview",
+            "subtitle": [
+                "Message Overview",
+                "Message Resource",
+                "Message Resource"
+            ]
+        },
+        {
+            "title": "Message Reference",
+            "subtitle": [
+                "Message Overview",
+                "Message providers",
+                "Message Resource"
+            ]
+        },
+        {
+            "title": "Message lists"
+        },
+        {
+            "title": "Message Overview",
+            "subtitle": [
+                "Message Overview",
+                "Message Resource",
+                "Message Resource"
+            ]
+        },
+        {
+            "title": "Message Overview",
+            "subtitle": [
+                "Message Overview",
+                "Message Resource",
+                "Message Resource"
+            ]
+        },
+        {
+            "title": "Message Overview",
+            "subtitle": [
+                "Message Overview",
+                "Message Resource",
+                "Message Resource"
+            ]
+        },
+        {
+            "title": "Message Overview",
+            "subtitle": [
+                "Message Overview",
+                "Message Resource",
+                "Message Resource"
+            ]
+        }
+    ]
+}

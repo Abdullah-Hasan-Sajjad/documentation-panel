@@ -2,6 +2,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import MainNavbar from "./mainNavbar";
 import MainSidebar from "./mainSidebar";
+import sidepanelData from "../data/sidepanelData.json"
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -16,7 +17,7 @@ export default function RootLayout({ children }) {
 
       <body className={inter.className}>
         <MainNavbar />
-        <MainSidebar />
+        <MainSidebar list={sidepanelData.Root} />
         <div className="md:ml-64">
           {children}
         </div>
